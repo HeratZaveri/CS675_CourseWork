@@ -1,3 +1,3 @@
 # CS675_CourseWork
 
-Homework for CS 675 here
+All Homework for CS 675 and Midterm Project
